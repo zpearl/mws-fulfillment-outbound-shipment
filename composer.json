@@ -1,5 +1,5 @@
 {
-    "name": "amazon-mws-unofficial/mws-fulfillment-outbound-shipment",
+    "name": "zpearl/mws-fulfillment-outbound-shipment",
 	"description": "Amazon MWS code base moved into composer package",
     "type": "library",
     "license": "Apache-2.0",
